@@ -1,2 +1,2 @@
 # Conclusion
-configure files are necessary if you .gitignore all .h, .o, and .cc files in src/ directory. If you don't .gitignore these, these configure files are not necessary
+Seems like configure files are necessary if you .gitignore all .h, .o, and .cc files in src/ directory. If you don't .gitignore these, these configure files are not necessary. I think people suggest adding .h, .o, and .cc files to .gitignore because of their size (a couple MB typically), and perhaps they slow down package compilation significantly. The configure files annoy me because they regularly lose execution privileges for some reason and cause installation problems for users, particularly Mac users. 
