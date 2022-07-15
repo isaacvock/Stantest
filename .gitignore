@@ -2,3 +2,7 @@
 configure
 configure.win
 
+src/*.o
+src/*.cc
+src/*.h
+docs
