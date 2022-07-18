@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://isaacvock.github.io/Stantest/404.html</loc>
+  </url>
+  <url>
+    <loc>https://isaacvock.github.io/Stantest/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://isaacvock.github.io/Stantest/index.html</loc>
+  </url>
+  <url>
+    <loc>https://isaacvock.github.io/Stantest/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://isaacvock.github.io/Stantest/reference/lm_stan.html</loc>
+  </url>
+  <url>
+    <loc>https://isaacvock.github.io/Stantest/reference/rstanlm-package.html</loc>
+  </url>
+</urlset>
