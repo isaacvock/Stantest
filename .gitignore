@@ -1,6 +1,8 @@
 .Rproj.user
-
-src/*.o
-src/*.cc
-src/*.h
+*.Rproj
+.Rhistory
+.travis.yml
+inst/doc
+vignettes/rsconnect
 docs
+configure*
